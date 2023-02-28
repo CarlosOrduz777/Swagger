@@ -1,3 +1,13 @@
+# Swagger 2
+## Laura Alvarado, Carlos Orduz
+# Integra Swagger en el Codelab:
+## Product Controller
+![image](https://user-images.githubusercontent.com/98195579/221752936-5e89e604-cbe5-49ca-a105-c38130247e05.png)
+
+## User Controller
+![image](https://user-images.githubusercontent.com/98195579/221752979-1278bad8-3c7b-46c0-a284-e225c9e435f7.png)
+
+
 <img align="right" src="https://github.com/ada-school/module-template/blob/main/ada.png">
 
 ## Codelab 🧪 Implementing a REST API Service
