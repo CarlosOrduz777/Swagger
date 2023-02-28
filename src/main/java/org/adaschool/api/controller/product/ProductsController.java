@@ -6,7 +6,6 @@ import org.adaschool.api.repository.product.ProductDto;
 import org.adaschool.api.service.product.ProductsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
